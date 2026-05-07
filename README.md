@@ -1,4 +1,4 @@
-### <div align="center">I'm Saeed, a full-time front-end developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Saeed, a full-time front-end developer 👨‍💻🚀</div>  
   
 
 <br/>  
